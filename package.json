@@ -1,0 +1,9 @@
+{
+  "name": "githubgistsearchario",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "trevor glick",
+  "scripts": {
+    "install": "cd client && yarn install && cd ../server && yarn install"
+  }
+}

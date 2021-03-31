@@ -1,0 +1,61 @@
+{
+  "url": "https://api.github.com/gists/2633c704a7c52424279c43955e4aa1f2",
+  "forks_url": "https://api.github.com/gists/2633c704a7c52424279c43955e4aa1f2/forks",
+  "commits_url": "https://api.github.com/gists/2633c704a7c52424279c43955e4aa1f2/commits",
+  "id": "2633c704a7c52424279c43955e4aa1f2",
+  "node_id": "MDQ6R2lzdDI2MzNjNzA0YTdjNTI0MjQyNzljNDM5NTVlNGFhMWYy",
+  "git_pull_url": "https://gist.github.com/2633c704a7c52424279c43955e4aa1f2.git",
+  "git_push_url": "https://gist.github.com/2633c704a7c52424279c43955e4aa1f2.git",
+  "html_url": "https://gist.github.com/2633c704a7c52424279c43955e4aa1f2",
+  "files": {
+    "gistfile1.txt": {
+      "filename": "gistfile1.txt",
+      "type": "text/plain",
+      "language": "Text",
+      "raw_url": "https://gist.githubusercontent.com/trevorglick/2633c704a7c52424279c43955e4aa1f2/raw/30d74d258442c7c65512eafab474568dd706c430/gistfile1.txt",
+      "size": 4
+    },
+    "gistfile2.txt": {
+      "filename": "gistfile2.txt",
+      "type": "text/plain",
+      "language": "Text",
+      "raw_url": "https://gist.githubusercontent.com/trevorglick/2633c704a7c52424279c43955e4aa1f2/raw/a2a3f4f1e30c488bfbd52aabfbcfcc1f5822158d/gistfile2.txt",
+      "size": 4
+    },
+    "gistfile3.txt": {
+      "filename": "gistfile3.txt",
+      "type": "text/plain",
+      "language": "Text",
+      "raw_url": "https://gist.githubusercontent.com/trevorglick/2633c704a7c52424279c43955e4aa1f2/raw/04092d961919e9393f84e56842abe071cdb820ed/gistfile3.txt",
+      "size": 5
+    }
+  },
+  "public": true,
+  "created_at": "2021-03-31T01:23:54Z",
+  "updated_at": "2021-03-31T01:23:54Z",
+  "description": "",
+  "comments": 0,
+  "user": null,
+  "comments_url": "https://api.github.com/gists/2633c704a7c52424279c43955e4aa1f2/comments",
+  "owner": {
+    "login": "trevorglick",
+    "id": 907005,
+    "node_id": "MDQ6VXNlcjkwNzAwNQ==",
+    "avatar_url": "https://avatars.githubusercontent.com/u/907005?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/trevorglick",
+    "html_url": "https://github.com/trevorglick",
+    "followers_url": "https://api.github.com/users/trevorglick/followers",
+    "following_url": "https://api.github.com/users/trevorglick/following{/other_user}",
+    "gists_url": "https://api.github.com/users/trevorglick/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/trevorglick/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/trevorglick/subscriptions",
+    "organizations_url": "https://api.github.com/users/trevorglick/orgs",
+    "repos_url": "https://api.github.com/users/trevorglick/repos",
+    "events_url": "https://api.github.com/users/trevorglick/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/trevorglick/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "truncated": false
+}

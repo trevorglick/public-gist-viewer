@@ -8,5 +8,7 @@ export const AppEl = styled.div`
 
 export const Content = styled.div`
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
+  padding-top: 12px;
+  width: 600px;
 `;
